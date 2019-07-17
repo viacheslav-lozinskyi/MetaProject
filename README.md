@@ -2,18 +2,20 @@ At the initial stage, this extension should solve only one task - build and debu
 
 <i>If the tool helps you and you like it please rate it!</i>
 
-Features
-Simultaneous management of outputs for different platforms;
-Visualization of output in all modes (Build / Debug);
-Grouping of outputs from all sources (Build / Debug and other) in one list;
-Automatic definition of message signatures by which is possible it visualization and masking;
-Visual segregation (errors / warnings / messages) by colors and icons;
-Color changing of messages in accordance with preferences;
-Removal and establishment of messages masking in accordance with preferences;
-Grouping of additional information in a single message;
-Showing of appearance time for each message;
-Removing unnecessary information from messages;
-Search for requested messages;
-Showing of the source file which is associated with message;
-Support Visual Studio color scheme;
-… and much more.
+<h1>Features</h1>
+<ul>
+<li>Simultaneous management of outputs for different platforms;
+<li>Visualization of output in all modes (Build / Debug);
+<li>Grouping of outputs from all sources (Build / Debug and other) in one list;
+<li>Automatic definition of message signatures by which is possible it visualization and masking;
+<li>Visual segregation (errors / warnings / messages) by colors and icons;
+<li>Color changing of messages in accordance with preferences;
+<li>Removal and establishment of messages masking in accordance with preferences;
+<li>Grouping of additional information in a single message;
+<li>Showing of appearance time for each message;
+<li>Removing unnecessary information from messages;
+<li>Search for requested messages;
+<li>Showing of the source file which is associated with message;
+<li>Support Visual Studio color scheme;
+<li>… and much more.
+</ul>
