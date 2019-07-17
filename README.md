@@ -1,7 +1,5 @@
 At the initial stage, this extension should solve only one task - build and debug output should became simple and convenient for developers.
 
-<i>If the tool helps you and you like it please rate it!</i>
-
 <h2>Features</h2>
 <ul>
 <li>Simultaneous management of outputs for different platforms;
