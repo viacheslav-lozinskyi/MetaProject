@@ -19,3 +19,8 @@ At the initial stage, this extension should solve only one task - build and debu
 <li>Support Visual Studio color scheme;
 <li>… and much more.
 </ul>
+
+<h1>Publications about MetaProject</h1>
+<ul>
+<li><a href='https://habr.com/ru/post/458300/'>Evolution of every developer's most popular tool</a>
+</ul>
