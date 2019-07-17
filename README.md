@@ -2,7 +2,7 @@ At the initial stage, this extension should solve only one task - build and debu
 
 <i>If the tool helps you and you like it please rate it!</i>
 
-<h1>Features</h1>
+<h2>Features</h2>
 <ul>
 <li>Simultaneous management of outputs for different platforms;
 <li>Visualization of output in all modes (Build / Debug);
@@ -20,7 +20,9 @@ At the initial stage, this extension should solve only one task - build and debu
 <li>… and much more.
 </ul>
 
-<h1>Publications about MetaProject</h1>
+<img src='https://habrastorage.org/webt/t7/z-/od/t7z-odwwokqomjlqb4c_ixcjrmg.gif'>
+
+<h2>Publications about MetaProject</h2>
 <ul>
 <li><a href='https://habr.com/ru/post/458300/'>Evolution of every developer's most popular tool</a>
 </ul>
