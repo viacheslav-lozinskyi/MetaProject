@@ -18,7 +18,7 @@ At the initial stage, this extension should solve only one task - build and debu
 <li>… and much more.
 </ul>
 
-<img src='https://habrastorage.org/webt/t7/z-/od/t7z-odwwokqomjlqb4c_ixcjrmg.gif'>
+<img src='https://habrastorage.org/webt/9p/_h/91/9p_h91wejrt-ys6h8kpp_qz754y.gif'>
 
 <h2>Publications about MetaProject</h2>
 <ul>
