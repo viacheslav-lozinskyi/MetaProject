@@ -1,0 +1,6 @@
+- Freeze on starting of Xamarin project on some versions of Android is fixed
+- Visual representation of source "Modules" is implemented
+- Visualization of Linux output is improved
+- Coloring of search results is implemented
+- Minor design changes
+- Stability improvement

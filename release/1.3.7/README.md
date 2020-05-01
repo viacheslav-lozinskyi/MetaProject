@@ -1,0 +1,11 @@
+- Freeze with added of big number of messages in short time is fixed
+- "Grep" like mode of filtered output is implemented
+- Visualization of debug and critical messages is implemented
+- Highlighting of some messages in green color is implemented
+- Highlighting of found items for sub-messages is implemented
+- Information about error code is removed from visualization of message body
+- For commands Copy, Cut, Paste added information about source file where event applied
+- Minor improvements
+- Minor bugs are fixed
+- Minor design changes
+- Performance optimization

@@ -1,0 +1,5 @@
+- Significant design changes
+- Predefined colors for INFO, WARNING and ERROR messages are changed
+- Color changing mechanism is improved
+- New visualization mode for messages is implemented
+- Popup menu is changed

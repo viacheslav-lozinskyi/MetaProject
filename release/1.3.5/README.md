@@ -1,0 +1,4 @@
+- Output for Tests, Xamarin and CMake sources is improved
+- Navigation to files and folders by partial information is implemented
+- Navigation to files and folders on Linux and Android is implemented
+- Stability improvement

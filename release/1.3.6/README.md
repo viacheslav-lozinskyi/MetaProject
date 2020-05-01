@@ -1,0 +1,11 @@
+- Algorithm of path extraction is improved
+- Algorithm of navigation to files by partial information about files is improved
+- Visualization of shell commands execution is implemented
+- Support of CppCheck is implemented (when additional extension is installed)
+- Visualization of performance output is implemented
+- Visualization of breakpoints as additional output source is implemented
+- Font for visualization of message content to mono-spaced font is changed
+- Color of timestamps is changed
+- Startup time is reduced
+- Minor design changes
+- Stability improvement

@@ -1,0 +1,5 @@
+- Visualization of local variables for all items in stack trace is implemented
+- Visualization of difference between time of two events is implemented
+- "Debugging" popup menu is implemented
+- Minor bugs are fixed
+- Minor design improvements

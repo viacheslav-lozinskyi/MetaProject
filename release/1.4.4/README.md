@@ -1,0 +1,6 @@
+- Visualization of Docker source is implemented
+- Visualization of Preview source is implemented
+- Visualization of sub-item mechanism is improved
+- Mechanism previewing of hierarchy is implemented
+- Minor design changes
+- Minor bug fixed

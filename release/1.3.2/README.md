@@ -1,0 +1,10 @@
+- Correct visualization of std::string and ATL::CString values is implemented
+- Possibility to navigate to URL (where it found) for all messages is implemented
+- Visualization of CMake messages is improved
+- Visualization of Xamarin output is implemented
+- Automatic scrolling is turned on when solution is compiling or running
+- Automatic showing of docked MetaProject tool is disabled
+- Hit count visualization is added for all break-point messages
+- Highlighting of current break-point is implemented
+- Performance optimization
+- Minor bugs are fixed

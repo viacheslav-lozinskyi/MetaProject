@@ -1,0 +1,2 @@
+- Visualization of TODO, HACK, UNDONE messages is implemented
+- Stability improvement

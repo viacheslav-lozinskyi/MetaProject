@@ -1,0 +1,6 @@
+- Significantly improved visualization of all debug output
+- Called breakpoints now is a part of output
+- Call stack is added for all warnings and breakpoints items in output
+- Fixed freeze in output of "Search in files" results
+- Minor bugs are fixed
+- Minor design changes

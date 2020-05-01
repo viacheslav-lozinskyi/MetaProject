@@ -1,0 +1,1 @@
+- Fixed critical bug with initialization of the extension after installation

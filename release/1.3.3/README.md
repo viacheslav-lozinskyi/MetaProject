@@ -1,0 +1,8 @@
+- Navigation to files for Linux projects is implemented
+- Navigation to files with incorrect paths is implemented
+- Navigation to folders is implemented
+- Output visualization for Linux projects is significantly improved
+- Output visualization for "Diagnostic Hub" is implemented
+- Invariant to white spaces search mechanism is implemented
+- Minor bugs are fixed
+- Minor design changes

@@ -1,0 +1,4 @@
+- Visualization of TODO, HACK, UNDONE messages differintiation by colors is implemented
+- Menu items "Expand All", "Expand Children", "Collapse All", "Collapse Children", "Collapse Parent" are implemented
+- Clearing mechanism of data for different sources is improved
+- Monor bugs are fixed
