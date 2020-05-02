@@ -1,4 +1,4 @@
-At the initial stage, this extension should solve only one task - build and debug output should became simple and convenient for developers.
+Once you see this extension, you will forget standard output window and many other standard tools.
 
 <h2>Features</h2>
 <ul>
