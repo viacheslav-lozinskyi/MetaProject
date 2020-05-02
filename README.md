@@ -1,5 +1,3 @@
-Once you see this extension, you will forget standard output window and many other standard tools.
-
 <h2>Features</h2>
 <ul>
 <li>Simultaneous management of outputs for different platforms;
