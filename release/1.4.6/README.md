@@ -1,0 +1,7 @@
+- Preview mechanism is implemented
+- Output from NuGet source is improved
+- Visualization of message hint is improved
+- Menu item "Install extensions..." is implemented
+- Popup menu is restructurized
+- Startup time is reduced
+- Minor design changes
