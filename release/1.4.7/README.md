@@ -1,0 +1,7 @@
+- Preview mechanism is improved
+- Pin mechanism is implemented
+- Popup menu "Settings \ Preview" is implemented
+- Source "Journal" is merged with source "Diagnostics"
+- Source "General" is merged with source "Solution"
+- Minor bugs are fixed
+- Minor design changes
