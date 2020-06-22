@@ -1,0 +1,4 @@
+- Preview mechanism is improved
+- Popup menu "Settings" is restructuring
+- Stability improvement
+- Minor bugs are fixed
