@@ -1,3 +1,6 @@
+![Image](https://img.shields.io/github/issues/viacheslav-lozinskyi/MetaProject)
+![Image](https://img.shields.io/github/repo-size/viacheslav-lozinskyi/MetaProject)
+
 <h2>Features</h2>
 <ul>
 <li>Simultaneous management of outputs for different platforms;
