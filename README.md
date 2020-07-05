@@ -1,5 +1,8 @@
 ![Image](https://img.shields.io/github/issues/viacheslav-lozinskyi/MetaProject)
 ![Image](https://img.shields.io/github/repo-size/viacheslav-lozinskyi/MetaProject)
+![Image](https://img.shields.io/badge/VS-2019-blueviolet)
+![Image](https://img.shields.io/badge/VS-2017-blueviolet)
+![Image](https://img.shields.io/badge/VS-2015-blueviolet)
 
 <h2>Features</h2>
 <ul>
