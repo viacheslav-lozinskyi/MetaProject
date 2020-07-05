@@ -22,7 +22,7 @@
 <li>… and much more.
 </ul>
 
-<img src='https://habrastorage.org/webt/9p/_h/91/9p_h91wejrt-ys6h8kpp_qz754y.gif'>
+<img src='resource/video/Presentation1.gif'>
 
 <h2>Publications about MetaProject</h2>
 <ul>
