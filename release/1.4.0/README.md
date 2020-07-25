@@ -1,5 +1,0 @@
-- Navigation to source code by function name is implemented
-- Performance optimization
-- Startup time is reduced
-- Minor design changes
-- Minor bugs are fixed

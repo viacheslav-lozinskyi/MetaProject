@@ -1,5 +1,0 @@
-- Visualization of TODO, HACK, UNDONE messages differentiation by colors is implemented
-- Menu items "Expand All", "Expand Children", "Collapse All", "Collapse Children", "Collapse Parent" are implemented
-- Clearing mechanism of data for different sources is improved
-- Minor bugs are fixed
-- Stability improvement

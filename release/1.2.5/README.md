@@ -1,6 +1,0 @@
-- Results of standard searching now is part of MetaProject output
-- Behavior of "message expand/collapse" is improved
-- Button "Copy selected text" is implemented
-- Loading time reduced
-- Stability improvement
-- Minor bugs are fixed

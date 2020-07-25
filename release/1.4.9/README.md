@@ -1,6 +1,0 @@
-- "Application" source is implemented
-- "Extensions" source is implemented
-- Flag "REMOVE" for trace messages is implemented
-- Link to compiled file is added for each compiled project
-- Performance optimization
-- Minor bugs are fixed

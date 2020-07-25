@@ -1,6 +1,0 @@
-- Visual representation of "Exceptions" source is implemented
-- Mechanism of message signature calculation is improved
-- Mechanism of "hidden comments" in messages is implemented
-- Useless messages for most sources are hided by default
-- Minor bugs are fixed
-- Performance optimization

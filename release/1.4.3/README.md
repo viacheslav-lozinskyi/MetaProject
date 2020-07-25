@@ -1,8 +1,0 @@
-- Visualization of Console source for Xamarin projects is implemented
-- Visualization of progress for messages is implemented
-- Menu item "Undo" for last operation is implemented
-- Output for CMake source is improved
-- Output for Xamarin source is improved
-- Message expanding mechanism is improved
-- Message commenting mechanism is improved
-- Minor bugs are fixed

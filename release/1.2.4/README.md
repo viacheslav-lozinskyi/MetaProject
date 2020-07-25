@@ -1,4 +1,0 @@
-- Correct output visualization for CMake projects is implemented
-- Visualization of NPM output is implemented
-- Minor usability improvement
-- Minor design improvements

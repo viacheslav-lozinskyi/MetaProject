@@ -1,7 +1,0 @@
-- Support of OpenCppCoverage extension is implemented (when this extension is installed)
-- Support of VsConsoleOutput extension is implemented (when this extension is installed)
-- Visualization of progress indicator for messages is implemented
-- Possibility to select comment in messages is implemented
-- Algorithm of function detection in sub-items is significantly improved
-- Performance optimization
-- Minor design changes

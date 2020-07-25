@@ -1,7 +1,0 @@
-- Highlighting by comments in implemented
-- Searching by comments in implemented
-- Status monitoring mechanism is implemented
-- Visualization of MetaProject source is implemented
-- Bug with wrong visualization of CMake source is fixed
-- Minor bugs are fixed
-- Minor design changes

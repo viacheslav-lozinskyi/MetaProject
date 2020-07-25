@@ -1,5 +1,0 @@
-- Visualization of full-line color mode is improved
-- Overall status of all messages is implemented
-- Information about projects in each build message is implemented
-- Minor bugs are fixed
-- Minor design changes

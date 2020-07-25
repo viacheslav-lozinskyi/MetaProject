@@ -1,3 +1,0 @@
-- Support of Visual Studio 2015 is implemented
-- Added Google Analytics for getting of 3 kinds information - was extension successfully installed, updated or started
-- Bug in extension installer is fixed
