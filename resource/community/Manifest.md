@@ -38,7 +38,7 @@ Thanks to all!
 I am very grateful to everyone who makes their contribution to improving the product.
 There are such people, and I would like to highlight them.
 
-For that people I created this [list](https://github.com/viacheslav-lozinskyi/MetaProject/tree/master/resource/document/community/Thanks.md).
+For that people I created this [list](https://github.com/viacheslav-lozinskyi/MetaProject/blob/master/resource/community/Thanks.md).
 
 At the moment, being in this list is just a demonstration of my gratitude.
 
@@ -65,7 +65,7 @@ That time which I could spend improving the product!
 
 For such people, the answer will be next:
 
-1. They will be automatically added to the [block list](https://github.com/viacheslav-lozinskyi/MetaProject/tree/master/resource/document/community/Blocked.md)
+1. They will be automatically added to the [block list](https://github.com/viacheslav-lozinskyi/MetaProject/blob/master/resource/community/Blocked.md)
 2. For all users from the list, functionality of MetaProject will be restricted until the reason for entering block list is eliminated
 3. I will not conduct any discussions with such people
 4. I will answer by email only when will see desire from other side to solve the problem
