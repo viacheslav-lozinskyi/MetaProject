@@ -1,7 +1,7 @@
-###MetaProject Community Manifest
+# MetaProject Community Manifest
 
 
-#INTRODUCTION
+### INTRODUCTION
 
 MetaProject was created to make the work of programmers easier and more efficient.
 Functionality of the program has already been improved and continues to improve.
@@ -19,7 +19,7 @@ In this regard, this process should be organized and systematized.
 It is a reason why this document appears.
 
 
-#THANKS
+### THANKS
 
 I created MetaProject for myself and for everyone who wants to use it.
 Its creation took 4 years of my life, and became a part of me.
@@ -33,7 +33,7 @@ who reported found bugs, who wrote positive reviews, and who simply supported me
 Thanks to all!
 
 
-#PROMOTION
+### PROMOTION
 
 I am very grateful to everyone who makes their contribution to improving the product.
 There are such people, and I would like to highlight them.
@@ -47,7 +47,7 @@ It will be much more impressive than the current implementation.
 And all people from the list will have it for free.
 
 
-#ABUSE
+### ABUSE
 
 There are people who come to communicate with claims.
 They are all alike in that they don't see any advantages of MetaProject at all, but they see only disadvantages.
@@ -65,13 +65,13 @@ That time which I could spend improving the product!
 
 For such people, the answer will be next:
 
-1. They will be automatically added to the [block list](https://github.com/viacheslav-lozinskyi/MetaProject/tree/master/resource/document/community/Blocked.md);
-2. For all users from the list, functionality of MetaProject will be restricted until the reason for entering block list is eliminated;
-3. I will not conduct any discussions with such people;
-4. I will answer by email only when will see desire from other side to solve the problem.
+1. They will be automatically added to the [block list](https://github.com/viacheslav-lozinskyi/MetaProject/tree/master/resource/document/community/Blocked.md)
+2. For all users from the list, functionality of MetaProject will be restricted until the reason for entering block list is eliminated
+3. I will not conduct any discussions with such people
+4. I will answer by email only when will see desire from other side to solve the problem
 
 
-#RESOURCES
+### RESOURCES
 
 Due to that communication with users covers different topics, then for each topic there is the best place for communication:
 
