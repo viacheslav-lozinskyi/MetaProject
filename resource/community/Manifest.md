@@ -38,7 +38,7 @@ Thanks to all!
 I am very grateful to everyone who makes their contribution to improving the product.
 There are such people, and I would like to highlight them.
 
-For that people I created this [list](https://github.com/viacheslav-lozinskyi/MetaProject/tree/master/resource/document/community/Thanks.md)
+For that people I created this [list](https://github.com/viacheslav-lozinskyi/MetaProject/tree/master/resource/document/community/Thanks.md).
 
 At the moment, being in this list is just a demonstration of my gratitude.
 
