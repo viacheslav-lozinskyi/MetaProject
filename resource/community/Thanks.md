@@ -1,4 +1,4 @@
-### Thanks to all those people for contribution in creating of MetaProject
+## Thanks to all those people for contribution in creating of MetaProject
 
 - Nesviatypaskha Oleksii (creating of extensions for MetaProject)
 - K. L. Carter Sr. (ideas for improvement)
