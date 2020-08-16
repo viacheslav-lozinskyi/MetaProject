@@ -47,7 +47,7 @@ It will be much more impressive than the current implementation.
 And all people from the list will have it for free.
 
 
-### ABUSE
+### RESTRICTIONS
 
 There are people who come to communicate with claims.
 They are all alike in that they don't see any advantages of MetaProject at all, but they see only disadvantages.
