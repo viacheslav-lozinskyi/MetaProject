@@ -85,6 +85,6 @@ Due to that communication with users covers different topics, then for each topi
 
 With respect
 
-Viacheslav Lozinskyi <viacheslav.lozinskyi@gmail.com>
+Viacheslav Lozinskyi
 
 Author of MetaProject.
