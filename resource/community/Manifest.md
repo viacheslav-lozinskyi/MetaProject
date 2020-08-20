@@ -68,7 +68,7 @@ For such people, the answer will be next:
 1. They will be automatically added to the [block list](https://github.com/viacheslav-lozinskyi/MetaProject/blob/master/resource/community/Blocked.md)
 2. For all users from the list, functionality of MetaProject will be restricted until the reason for entering block list is eliminated
 3. I will not conduct any discussions with such people
-4. I will answer by email only when will see desire from other side to solve the problem
+4. I will answer by [email](mailto:viacheslav.lozinskyi@gmail.com) only when will see desire from other side to solve the problem
 
 
 ### RESOURCES
