@@ -65,7 +65,7 @@ That time which I could spend improving the product!
 
 For such people, the answer will be next:
 
-1. They will be automatically added to the [block list](https://github.com/viacheslav-lozinskyi/MetaProject/blob/master/resource/community/Blocked.md)
+1. They will be automatically added to the [block list](https://bit.ly/metaproject-block)
 2. For all users from the list, functionality of MetaProject will be restricted until the reason for entering block list is eliminated
 3. I will not conduct any discussions with such people
 4. I will answer by [email](mailto:viacheslav.lozinskyi@gmail.com) only when will see desire from other side to solve the problem
@@ -75,9 +75,9 @@ For such people, the answer will be next:
 
 Due to that communication with users covers different topics, then for each topic there is the best place for communication:
 
-1. Ideas for improvement and bug reports are [here](https://github.com/viacheslav-lozinskyi/MetaProject/issues)
-2. Question and Answers are [here](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaProject&ssr=false#qna)
-3. Your assessment of my work are [here](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaProject&ssr=false#review-details)
+1. Ideas for improvement and bug reports are [here](https://bit.ly/metaproject-issues)
+2. Question and Answers are [here](http://bit.ly/metaproject-questions)
+3. Your assessment of my work are [here](https://bit.ly/metaproject-raiting)
 4. Questions not related to these topics better to discuss by [email](mailto:viacheslav.lozinskyi@gmail.com)
 
 
