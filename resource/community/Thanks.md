@@ -11,3 +11,6 @@
 - grkouk (found and reported bug)
 - SoftArea-srl (found and reported bug)
 - bradphelan (found and reported bug)
+- lancelot-coder-chen (found and reported bug)
+- Michael Hollmer (found and reported bug)
+- peripheral.g (found and reported bug)
