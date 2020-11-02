@@ -4,3 +4,4 @@
 - DBJ
 - smg
 - Joao Da Silva
+- Viacheslav Lozinskyi
