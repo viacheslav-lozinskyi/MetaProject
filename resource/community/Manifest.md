@@ -77,7 +77,7 @@ Due to that communication with users covers different topics, then for each topi
 
 1. Ideas for improvement and bug reports are [here](https://bit.ly/metaproject-issues)
 2. Question and Answers are [here](http://bit.ly/metaproject-questions)
-3. Your assessment of my work are [here](https://bit.ly/metaproject-raiting)
+3. Your assessment of my work is [here](https://bit.ly/metaproject-raiting)
 4. Questions not related to these topics better to discuss by [email](mailto:viacheslav.lozinskyi@gmail.com)
 
 
