@@ -1,9 +1,10 @@
-![Image](https://img.shields.io/github/issues/viacheslav-lozinskyi/MetaProject?link=https://github.com/viacheslav-lozinskyi/MetaProject/issues)
-![Image](https://img.shields.io/github/stars/viacheslav-lozinskyi/MetaProject)
-![Image](https://img.shields.io/badge/VS-2022-blueviolet)
-![Image](https://img.shields.io/badge/VS-2019-blueviolet)
-![Image](https://img.shields.io/badge/VS-2017-blueviolet)
-![Image](https://img.shields.io/badge/VS-2015-blueviolet)
+[![GitHub issues](https://img.shields.io/github/issues/viacheslav-lozinskyi/MetaProject)](https://github.com/viacheslav-lozinskyi/MetaProject/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/viacheslav-lozinskyi/MetaProject)](https://github.com/viacheslav-lozinskyi/MetaProject/stargazers)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/viacheslav-lozinskyi/MetaProject)](https://github.com/viacheslav-lozinskyi/MetaProject)
+[![Image](https://img.shields.io/badge/VS-2022-blueviolet)](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaOutput-2022)
+[![Image](https://img.shields.io/badge/VS-2019-blueviolet)](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaOutput-2019)
+[![Image](https://img.shields.io/badge/VS-2017-blueviolet)](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaOutput-2019)
+[![Image](https://img.shields.io/badge/VS-2015-blueviolet)](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaOutput-2019)
 
 ---
 
