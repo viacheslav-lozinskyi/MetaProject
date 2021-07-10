@@ -1,5 +1,6 @@
 ![Image](https://img.shields.io/github/issues/viacheslav-lozinskyi/MetaProject?link=https://github.com/viacheslav-lozinskyi/MetaProject/issues)
 ![Image](https://img.shields.io/github/stars/viacheslav-lozinskyi/MetaProject)
+![Image](https://img.shields.io/badge/VS-2022-blueviolet)
 ![Image](https://img.shields.io/badge/VS-2019-blueviolet)
 ![Image](https://img.shields.io/badge/VS-2017-blueviolet)
 ![Image](https://img.shields.io/badge/VS-2015-blueviolet)
@@ -13,7 +14,7 @@ Project related functionality is in development.
 ---
 
 ## This video demonstrates just tiny part of [MetaOutput](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaOutput-2022) possibilities (it's part of MetaProject):
-![MetaProject_-_Presentation](resource/video/Presentation1.gif)
+![MetaProject-Presentation](resource/video/Presentation1.gif)
 
 ---
 
@@ -36,3 +37,9 @@ Direct link to this presentation in PowerPoint format is [here](https://github.c
 ## Prerequisites
 - **Visual Studio** 2015, 2017, 2019, 2022
 - **.NET Framework** 4.7.2+
+
+---
+
+## Downloads:
+
+Download from [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ViacheslavLozinskyi.MetaProject)
